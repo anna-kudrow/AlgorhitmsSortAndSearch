@@ -1,4 +1,4 @@
-public class List {
+ public class LinkedList{
 
     Node head;
     Node tail;
